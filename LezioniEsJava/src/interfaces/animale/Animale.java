@@ -1,4 +1,6 @@
 package interfaces.animale;
 
-public class Animale {
+public abstract class Animale {
+
+    public abstract void sound();
 }

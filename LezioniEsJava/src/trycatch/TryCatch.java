@@ -1,4 +1,4 @@
-package interfaces;
+package trycatch;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ public class TryCatch {
 //dividendo
             //divisore
 
-            //if (divisore ==0)
+            //if\ (divisore ==0)
             //throw new Exception ("no")
 
             } catch( Exception ex){

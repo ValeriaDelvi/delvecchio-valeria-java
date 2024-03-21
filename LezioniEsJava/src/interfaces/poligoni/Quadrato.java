@@ -1,4 +1,4 @@
-package interfaces;
+package interfaces.poligoni;
 
 import interfaces.poligoni.IMisurePoligoni;
 

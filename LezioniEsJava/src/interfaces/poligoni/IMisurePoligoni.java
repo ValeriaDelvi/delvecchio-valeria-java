@@ -1,4 +1,4 @@
-package interfaces;
+package interfaces.poligoni;
 
 public interface IMisurePoligoni
 {

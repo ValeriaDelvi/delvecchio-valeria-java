@@ -1,4 +1,4 @@
-package interfaces;
+package interfaces.poligoni;
 
 public class Main {
     public static void main(String[] args) {
