@@ -1,0 +1,22 @@
+Voglio una calcolatrice che
+faccia la somma, la sottrazione, la moltiplicazione, la divisione  di due numeri
+
+
+
+Vorrei, sommare due numeri, ma anche fare sottrazioni, moltiplicazioni e
+divisioni (se il secondpo numero è 0, la divisione darà errore)
+
+io voglio che
+dati 2 numeri n1 e n2
+mi faccia
+la somma n1+ n2= risultato
+la sottrazione n1 - n2 = risultato
+la moltiplicazione n1*n2= risultato
+la divisione n1:n2= risultato | se n2 = 0 darà errore
+
+somma semplice:
+int n1 = 6;
+int n2 = 3;
+
+int somma = n1 + n2;
+System.out.println(somma);
