@@ -1,0 +1,5 @@
+Scrivere un programma che dato un oggetto persona inserisca all’interno di un arraylist più persone;
+Inserire una persona controllando se esiste già una persona con lo stesso CF.
+Se esiste PersonaAlreadyExistException;
+Creare un metodo e cercare una persona mediante il CF e restituire l’istanza della persona trovata, altrimenti PersonaNotFoundException.
+Dato un arraylist di persone cercare le persone che sono nate lo stesso giorno e stampare le loro istanze.
